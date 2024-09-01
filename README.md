@@ -1,16 +1,30 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Moises Gonzalez
 
-<!--
-**moisesdavidgonzalez/moisesdavidgonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 Data Analyst | Apasionado por el análisis de datos y la automatización de procesos
 
-Here are some ideas to get you started:
+## 🌟 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un Data Analyst con experiencia en análisis de datos, creación de dashboards interactivos y automatización de procesos. Trabajo con herramientas como Excel, SQL, Power BI y Python para transformar datos en información valiosa que impulsa la toma de decisiones.
+
+💡 Mi interés por la ciencia de datos me ha llevado a desarrollar proyectos personales donde aplico técnicas de modelado de datos y visualización para resolver problemas reales. Siempre busco nuevos retos y oportunidades para aprender y crecer en este campo.
+
+## 🛠️ Habilidades Técnicas
+
+- **Lenguajes**: Python 🐍, SQL 🗄️
+- **Herramientas**: Power BI 📊, Excel 📈, Git 🌐
+- **Tecnologías**: Pandas 🐼, NumPy 🔢, Matplotlib 📉, Seaborn 🖼️
+- **Bases de datos**: SQL Server 💾
+
+## 🚀 Proyectos Destacados
+
+_(Aquí puedes agregar tus proyectos destacados con descripciones y enlaces)_
+
+## 📬 Conéctate conmigo
+
+- [Perfil de LinkedIn](https://www.linkedin.com/in/moises-gonzalez-513b17114/)
+- 📧 **Correo**: moisesdavidgonzalez@outlook.com
+- 📞 **Teléfono**: +57 3168463719
+- [Perfil de GitHub](https://github.com/moisesdavidgonzalez)
+
+
+
