@@ -17,7 +17,17 @@ Soy un Data Analyst con experiencia en análisis de datos, creación de dashboar
 
 ## 🚀 Proyectos Destacados
 
-_(Aquí puedes agregar tus proyectos destacados con descripciones y enlaces)_
+### 🏀 Data Analyst - “Análisis Avanzado del Rendimiento de Jugadores de la NBA”
+
+**Ago 2024 - Sep 2024 | Henry Bootcamp**
+
+Proyecto colaborativo enfocado en los **New York Knicks** utilizando técnicas avanzadas como la métrica **PIE (Player Impact Estimate)**. Principales logros:
+
+- 🔄 **ETL Completo**: Procesos ETL en SQL Server y Python 🐍.
+- 📊 **Modelado y Análisis de Datos**: Uso de **Pandas** 🐼 y **NumPy** 🔢 para la manipulación de datos.
+- 📈 **Visualización Interactiva**: Dashboards en **Power BI** 📊 que permitieron visualizar resultados clave.
+- 🎯 **Optimización de Estrategias**: Mejora de estrategias de selección y reclutamiento a través del análisis de datos históricos de jugadores universitarios y temporadas en la NBA.
+
 
 ## 📬 Conéctate conmigo
 
